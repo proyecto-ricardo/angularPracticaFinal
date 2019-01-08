@@ -5,3 +5,11 @@ a,a:visited{
 .top-space{
 	margin-top: 1em;
 }
+
+h1{
+	transition: color 0.5s;
+}
+
+h1:hover {
+	color: red;
+}

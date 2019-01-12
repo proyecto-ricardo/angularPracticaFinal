@@ -13,3 +13,7 @@ h1{
 h1:hover {
 	color: red;
 }
+
+body{
+	background-color: black; 
+}
